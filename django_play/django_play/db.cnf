@@ -1,0 +1,6 @@
+# my.cnf
+[client]
+database = szymonj_django01
+user = szymonj_django01
+password = J3iQ1fmdYaMK6Ovs9cOmHIMlshdaLAGu
+default-character-set = utf8
